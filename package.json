@@ -1,0 +1,24 @@
+{
+    "name": "aura-content-planner-demo",
+    "version": "1.0.0-demo",
+    "description": "Demo version of Aura Content Planner - Social Media Content Planning Tool",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx serve ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/laedrianus/aura-content-planner.git"
+    },
+    "keywords": [
+        "social-media",
+        "content-planning",
+        "calendar",
+        "instagram",
+        "facebook",
+        "twitter"
+    ],
+    "author": "Aura Content Planner",
+    "license": "UNLICENSED",
+    "homepage": "https://laedrianus.github.io/aura-content-planner"
+}

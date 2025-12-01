@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Source Code (NOT included in demo)
+*.tsx
+*.ts
+!*.d.ts
+components/
+services/
+hooks/
+
+# Build files
+dist/
+build/
+
+# Environment
+.env
+.env.local
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User data
+*.db
+*.sqlite
+AppData/
+
+# Only include these files:
+# - bundle.js (compiled)
+# - index.html
+# - README.md
+# - screenshots/
