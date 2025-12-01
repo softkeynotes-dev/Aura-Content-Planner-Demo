@@ -16,20 +16,7 @@ This is a **live demo** of Aura Content Planner - a powerful desktop application
 ## 🚀 Try the Demo
 
 ### Option 1: Online Demo (Recommended)
-👉 **[Launch Demo](https://laedrianus.github.io/aura-content-planner)**
-
-### Option 2: Run Locally
-```bash
-# Clone this repository
-git clone https://github.com/laedrianus/aura-content-planner.git
-
-# Navigate to demo folder
-cd aura-content-planner
-
-# Open index.html in your browser
-# Or use a local server:
-npx serve .
-```
+👉 **[Launch Demo] (https://github.com/softkeynotes-dev/Aura-Content-Planner-Demo)**
 
 ## 🔐 Demo Credentials
 
@@ -67,11 +54,6 @@ $125 Lifetime License
 
 👉 **[Purchase Now on Gumroad](https://gumroad.com/l/aura-content-planner)**
 
-## 📸 Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-![Calendar View](screenshots/calendar.png)
-![Analytics](screenshots/analytics.png)
 
 ## ❓ FAQ
 
@@ -92,9 +74,7 @@ A: Yes! 30-day money-back guarantee if you're not satisfied.
 
 ## 📞 Support
 
-- 📧 Email: support@auracontentplanner.com
-- 🐛 Issues: [GitHub Issues](https://github.com/laedrianus/aura-content-planner/issues)
-- 📚 Docs: [User Manual](https://github.com/laedrianus/aura-content-planner/blob/main/docs/User_Manual.md)
+- 📧 Email: softkeynotes@gmail.com
 
 ## 🔒 Security & Privacy
 
@@ -105,7 +85,7 @@ A: Yes! 30-day money-back guarantee if you're not satisfied.
 
 ## 📄 License
 
-© 2025 Aura Content Planner. All Rights Reserved.
+© 2025 SoftKeyNotes - Aura Content Planner. All Rights Reserved.
 
 This demo is for evaluation purposes only. Unauthorized distribution or modification is prohibited.
 
@@ -113,5 +93,6 @@ This demo is for evaluation purposes only. Unauthorized distribution or modifica
 
 **Made with ❤️ for content creators**
 
-[Purchase Full Version](https://gumroad.com/l/aura-content-planner) | [View Documentation](docs/User_Manual.md) | [Report Issue](https://github.com/laedrianus/aura-content-planner/issues)
+
+
 
