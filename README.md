@@ -1,5 +1,7 @@
 # Aura Content Planner - Demo Version
 
+https://softkeynotes-dev.github.io/Aura-Content-Planner-Demo/
+
 ## 🎯 What is This?
 
 This is a **live demo** of Aura Content Planner - a powerful desktop application for social media content planning. Try it in your browser before purchasing!
@@ -94,6 +96,7 @@ This demo is for evaluation purposes only. Unauthorized distribution or modifica
 ---
 
 **Made with ❤️ for content creators**
+
 
 
 
