@@ -62,8 +62,8 @@ Unlock unlimited features:
 
 ### 💰 Pricing
 
-**$49** - Lifetime License  
-~~$99~~ **50% OFF Launch Price**
+$125 Lifetime License  
+
 
 👉 **[Purchase Now on Gumroad](https://gumroad.com/l/aura-content-planner)**
 
@@ -114,3 +114,4 @@ This demo is for evaluation purposes only. Unauthorized distribution or modifica
 **Made with ❤️ for content creators**
 
 [Purchase Full Version](https://gumroad.com/l/aura-content-planner) | [View Documentation](docs/User_Manual.md) | [Report Issue](https://github.com/laedrianus/aura-content-planner/issues)
+
