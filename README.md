@@ -51,6 +51,8 @@ Unlock unlimited features:
 
 $125 Lifetime License  
 
+**If you want to buy with crypto? Mail to: softkeynotes@gmail.com**
+
 
 👉 **[Purchase Now on Gumroad](https://gumroad.com/l/aura-content-planner)**
 
@@ -92,6 +94,7 @@ This demo is for evaluation purposes only. Unauthorized distribution or modifica
 ---
 
 **Made with ❤️ for content creators**
+
 
 
 
